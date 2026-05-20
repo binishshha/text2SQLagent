@@ -2,7 +2,7 @@
 
 This script reads natural-language questions from `data/sql_questions.csv`,
 uses Gemini 2.5 Flash to decompose each question, and writes structured outputs
-for the Text-to-SQL pipeline. 
+for the Text-to-SQL pipeline.
 
 ## Setup
 
@@ -41,9 +41,6 @@ From the project root:
 python "task2/queryDecomposition.py" --question "List all customers from USA"
 ```
 
-By default, the script tries to read the live PostgreSQL schema. If Postgres is
-not running yet, it falls back to the built-in schema.
-
 Optional quick test:
 
 ```bash
@@ -68,5 +65,4 @@ Each row contains:
 ## What This Task Achieves
 
 Task 2 completes the query-understanding/decomposition stage of the agentic
-Text-to-SQL pipeline. It uses PostgreSQL for schema awareness, FastAPI for a
-backend endpoint, and Gemini for the actual natural-language decomposition.
+Text-to-SQL pipeline using Gemini for the actual natural-language decomposition.
