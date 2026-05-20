@@ -1,84 +1,70 @@
 -- Q1. List all products
 SELECT *
-FROM products
-ORDER BY "productCode";
+FROM products;
 
 -- Q2. Get all customers
 SELECT *
-FROM customers
-ORDER BY "customerNumber";
+FROM customers;
 
 -- Q3. Show all orders
 SELECT *
-FROM orders
-ORDER BY "orderNumber";
+FROM orders;
 
 -- Q4. List all employees
 SELECT *
-FROM employees
-ORDER BY "employeeNumber";
+FROM employees;
 
 -- Q5. Get all offices
 SELECT *
-FROM offices
-ORDER BY "officeCode";
+FROM offices;
 
 -- Q6. Show all product lines
 SELECT *
-FROM productlines
-ORDER BY "productLine";
+FROM productlines;
 
 -- Q7. List all payments
 SELECT *
-FROM payments
-ORDER BY "customerNumber", "checkNumber";
+FROM payments;
 
 -- Q8. Get product names and prices
 SELECT
   "productName",
   "buyPrice",
   "MSRP"
-FROM products
-ORDER BY "productName";
+FROM products;
 
 -- Q9. Get customer names and cities
 SELECT
   "customerName",
   "city"
-FROM customers
-ORDER BY "customerName";
+FROM customers;
 
 -- Q10. List employee first and last names
 SELECT
   "firstName",
   "lastName"
-FROM employees
-ORDER BY "lastName", "firstName";
+FROM employees;
 
 -- Q11. Get all order dates
 SELECT
   "orderNumber",
   "orderDate"
-FROM orders
-ORDER BY "orderDate", "orderNumber";
+FROM orders;
 
 -- Q12. Show product vendor list
 SELECT DISTINCT
   "productVendor"
-FROM products
-ORDER BY "productVendor";
+FROM products;
 
 -- Q13. Get all product codes
 SELECT
   "productCode"
-FROM products
-ORDER BY "productCode";
+FROM products;
 
 -- Q14. List all countries from offices
 SELECT DISTINCT
   "country"
-FROM offices
-ORDER BY "country";
+FROM offices;
 
 -- Q15. Show all order statuses
 SELECT DISTINCT
@@ -97,28 +83,24 @@ ORDER BY "customerNumber", "checkNumber";
 -- Q17. List all job titles
 SELECT DISTINCT
   "jobTitle"
-FROM employees
-ORDER BY "jobTitle";
+FROM employees;
 
 -- Q18. Get customer phone numbers
 SELECT
   "customerName",
   "phone"
-FROM customers
-ORDER BY "customerName";
+FROM customers;
 
 -- Q19. Show product MSRP values
 SELECT
   "productName",
   "MSRP"
-FROM products
-ORDER BY "productName";
+FROM products;
 
 -- Q20. List order numbers
 SELECT
   "orderNumber"
-FROM orders
-ORDER BY "orderNumber";
+FROM orders;
 
 -- Q21. Get orders with customer names
 SELECT
