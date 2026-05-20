@@ -1,0 +1,3210 @@
+[
+  {
+    "timestamp": "2026-05-20T13:54:05.243529",
+    "question": "List all products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.245342",
+    "question": "Get all customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.248388",
+    "question": "Show all orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.250139",
+    "question": "List all employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.252358",
+    "question": "Get all offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.254756",
+    "question": "Show all product lines",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.258188",
+    "question": "List all payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.260643",
+    "question": "Get product names and prices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.262856",
+    "question": "Get customer names and cities",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.264389",
+    "question": "List employee first and last names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.266461",
+    "question": "Get all order dates",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.269345",
+    "question": "Show product vendor list",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.274968",
+    "question": "Get all product codes",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.275347",
+    "question": "List all countries from offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.275347",
+    "question": "Show all order statuses",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.283058",
+    "question": "Get all payment amounts",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.285310",
+    "question": "List all job titles",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.289600",
+    "question": "Get customer phone numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.289600",
+    "question": "Show product MSRP values",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.295307",
+    "question": "List order numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.298494",
+    "question": "Get orders with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.303061",
+    "question": "Get employees with office city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.307218",
+    "question": "Get payments with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.310356",
+    "question": "Get order details with product names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.310356",
+    "question": "Get products with product line description",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.322044",
+    "question": "Get customers with sales rep names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.326158",
+    "question": "Get orders with customer city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.330520",
+    "question": "Get employees and their manager",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.337921",
+    "question": "Get orderdetails with product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.342686",
+    "question": "Get payments with customer country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.347836",
+    "question": "Count customers per country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.354553",
+    "question": "Total payments per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.354553",
+    "question": "Number of orders per status",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.364564",
+    "question": "Products per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.372151",
+    "question": "Employees per office",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.375619",
+    "question": "Total stock per product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.380400",
+    "question": "Average buy price per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.384553",
+    "question": "Orders per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.391255",
+    "question": "Max MSRP per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.397778",
+    "question": "Min buy price per vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.402354",
+    "question": "Total number of customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.406747",
+    "question": "Total number of products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.412500",
+    "question": "Total revenue from payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.415387",
+    "question": "Average product price",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.423021",
+    "question": "Max payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.432200",
+    "question": "Min payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.437102",
+    "question": "Count total orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.441220",
+    "question": "Total quantity in stock",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.444913",
+    "question": "Average MSRP",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T13:54:05.450257",
+    "question": "Number of employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.334393",
+    "question": "List all products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.340127",
+    "question": "Get all customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.340127",
+    "question": "Show all orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.344929",
+    "question": "List all employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.345677",
+    "question": "Get all offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.348254",
+    "question": "Show all product lines",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.349957",
+    "question": "List all payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.351966",
+    "question": "Get product names and prices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.351966",
+    "question": "Get customer names and cities",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.356750",
+    "question": "List employee first and last names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.357257",
+    "question": "Get all order dates",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.357257",
+    "question": "Show product vendor list",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.364828",
+    "question": "Get all product codes",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.366054",
+    "question": "List all countries from offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.368132",
+    "question": "Show all order statuses",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.368132",
+    "question": "Get all payment amounts",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.374048",
+    "question": "List all job titles",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.376219",
+    "question": "Get customer phone numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.377227",
+    "question": "Show product MSRP values",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.377227",
+    "question": "List order numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.381492",
+    "question": "Get orders with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.383896",
+    "question": "Get employees with office city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.383896",
+    "question": "Get payments with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.390713",
+    "question": "Get order details with product names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.397885",
+    "question": "Get products with product line description",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.397885",
+    "question": "Get customers with sales rep names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.402800",
+    "question": "Get orders with customer city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.407158",
+    "question": "Get employees and their manager",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.409297",
+    "question": "Get orderdetails with product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.409297",
+    "question": "Get payments with customer country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.414179",
+    "question": "Count customers per country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.414179",
+    "question": "Total payments per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.420935",
+    "question": "Number of orders per status",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.423856",
+    "question": "Products per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.428925",
+    "question": "Employees per office",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.432010",
+    "question": "Total stock per product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.438822",
+    "question": "Average buy price per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.441907",
+    "question": "Orders per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.443292",
+    "question": "Max MSRP per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.450443",
+    "question": "Min buy price per vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.455274",
+    "question": "Total number of customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.457686",
+    "question": "Total number of products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.462930",
+    "question": "Total revenue from payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.462930",
+    "question": "Average product price",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.462930",
+    "question": "Max payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.473589",
+    "question": "Min payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.475780",
+    "question": "Count total orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.479462",
+    "question": "Total quantity in stock",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.479462",
+    "question": "Average MSRP",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:00:32.487783",
+    "question": "Number of employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.118279",
+    "question": "List all products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.121906",
+    "question": "Get all customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.122811",
+    "question": "Show all orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.129160",
+    "question": "List all employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.129836",
+    "question": "Get all offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.133599",
+    "question": "Show all product lines",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.133599",
+    "question": "List all payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.140070",
+    "question": "Get product names and prices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.141321",
+    "question": "Get customer names and cities",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.141321",
+    "question": "List employee first and last names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.151721",
+    "question": "Get all order dates",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.154495",
+    "question": "Show product vendor list",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.154495",
+    "question": "Get all product codes",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.161169",
+    "question": "List all countries from offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.165769",
+    "question": "Show all order statuses",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.165769",
+    "question": "Get all payment amounts",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.171801",
+    "question": "List all job titles",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.174017",
+    "question": "Get customer phone numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.174017",
+    "question": "Show product MSRP values",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.182234",
+    "question": "List order numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.182234",
+    "question": "Get orders with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.192648",
+    "question": "Get employees with office city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.194736",
+    "question": "Get payments with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.197836",
+    "question": "Get order details with product names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.202789",
+    "question": "Get products with product line description",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.210127",
+    "question": "Get customers with sales rep names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.214667",
+    "question": "Get orders with customer city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.214667",
+    "question": "Get employees and their manager",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.221301",
+    "question": "Get orderdetails with product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.224542",
+    "question": "Get payments with customer country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.228064",
+    "question": "Count customers per country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.230081",
+    "question": "Total payments per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.235241",
+    "question": "Number of orders per status",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.235241",
+    "question": "Products per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.235241",
+    "question": "Employees per office",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.244696",
+    "question": "Total stock per product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.245717",
+    "question": "Average buy price per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.245717",
+    "question": "Orders per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.256154",
+    "question": "Max MSRP per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.260271",
+    "question": "Min buy price per vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.260782",
+    "question": "Total number of customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.266446",
+    "question": "Total number of products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.269814",
+    "question": "Total revenue from payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.275879",
+    "question": "Average product price",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.279647",
+    "question": "Max payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.283035",
+    "question": "Min payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.287723",
+    "question": "Count total orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.287723",
+    "question": "Total quantity in stock",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.292362",
+    "question": "Average MSRP",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:05:11.298931",
+    "question": "Number of employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.844512",
+    "question": "List all products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.854231",
+    "question": "Get all customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.854231",
+    "question": "Show all orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.860661",
+    "question": "List all employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.860661",
+    "question": "Get all offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.864875",
+    "question": "Show all product lines",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.864875",
+    "question": "List all payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.864875",
+    "question": "Get product names and prices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.876146",
+    "question": "Get customer names and cities",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.876146",
+    "question": "List employee first and last names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.876146",
+    "question": "Get all order dates",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.876146",
+    "question": "Show product vendor list",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.886066",
+    "question": "Get all product codes",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.891072",
+    "question": "List all countries from offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.895272",
+    "question": "Show all order statuses",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.896317",
+    "question": "Get all payment amounts",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.896317",
+    "question": "List all job titles",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.896317",
+    "question": "Get customer phone numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.906951",
+    "question": "Show product MSRP values",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.907795",
+    "question": "List order numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.907795",
+    "question": "Get orders with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.917471",
+    "question": "Get employees with office city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.917471",
+    "question": "Get payments with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.924029",
+    "question": "Get order details with product names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.924029",
+    "question": "Get products with product line description",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.927829",
+    "question": "Get customers with sales rep names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.927829",
+    "question": "Get orders with customer city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.927829",
+    "question": "Get employees and their manager",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.940463",
+    "question": "Get orderdetails with product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.943949",
+    "question": "Get payments with customer country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.943949",
+    "question": "Count customers per country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.948894",
+    "question": "Total payments per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.954013",
+    "question": "Number of orders per status",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.957686",
+    "question": "Products per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.959697",
+    "question": "Employees per office",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.964463",
+    "question": "Total stock per product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.966502",
+    "question": "Average buy price per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.971170",
+    "question": "Orders per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.971170",
+    "question": "Max MSRP per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.971170",
+    "question": "Min buy price per vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.980861",
+    "question": "Total number of customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.980861",
+    "question": "Total number of products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.986387",
+    "question": "Total revenue from payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.986387",
+    "question": "Average product price",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.991077",
+    "question": "Max payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.995665",
+    "question": "Min payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:37.998268",
+    "question": "Count total orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:38.002366",
+    "question": "Total quantity in stock",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:38.006145",
+    "question": "Average MSRP",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:15:38.011589",
+    "question": "Number of employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.067102",
+    "question": "List all products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.067102",
+    "question": "Get all customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.076564",
+    "question": "Show all orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.076564",
+    "question": "List all employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.082217",
+    "question": "Get all offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.086806",
+    "question": "Show all product lines",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.090160",
+    "question": "List all payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.090160",
+    "question": "Get product names and prices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.098046",
+    "question": "Get customer names and cities",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.098629",
+    "question": "List employee first and last names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.115332",
+    "question": "Get all order dates",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.130742",
+    "question": "Show product vendor list",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.141427",
+    "question": "Get all product codes",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.145818",
+    "question": "List all countries from offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.152509",
+    "question": "Show all order statuses",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.155042",
+    "question": "Get all payment amounts",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.167213",
+    "question": "List all job titles",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.174619",
+    "question": "Get customer phone numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.186308",
+    "question": "Show product MSRP values",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.191963",
+    "question": "List order numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.200061",
+    "question": "Get orders with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.203675",
+    "question": "Get employees with office city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.212204",
+    "question": "Get payments with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.219918",
+    "question": "Get order details with product names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.225712",
+    "question": "Get products with product line description",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.235388",
+    "question": "Get customers with sales rep names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.242066",
+    "question": "Get orders with customer city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.247020",
+    "question": "Get employees and their manager",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.249565",
+    "question": "Get orderdetails with product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.260946",
+    "question": "Get payments with customer country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.267797",
+    "question": "Count customers per country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.273748",
+    "question": "Total payments per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.276838",
+    "question": "Number of orders per status",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.276838",
+    "question": "Products per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.288014",
+    "question": "Employees per office",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.288014",
+    "question": "Total stock per product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.304304",
+    "question": "Average buy price per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.309976",
+    "question": "Orders per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.321079",
+    "question": "Max MSRP per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.331663",
+    "question": "Min buy price per vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.335716",
+    "question": "Total number of customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.344779",
+    "question": "Total number of products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.352810",
+    "question": "Total revenue from payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.359479",
+    "question": "Average product price",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.366650",
+    "question": "Max payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.373926",
+    "question": "Min payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.382620",
+    "question": "Count total orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.385474",
+    "question": "Total quantity in stock",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.395877",
+    "question": "Average MSRP",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:27:25.403718",
+    "question": "Number of employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.402944",
+    "question": "List all products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.408342",
+    "question": "Get all customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.411882",
+    "question": "Show all orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.416501",
+    "question": "List all employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.421900",
+    "question": "Get all offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.426893",
+    "question": "Show all product lines",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.432249",
+    "question": "List all payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.434436",
+    "question": "Get product names and prices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.441693",
+    "question": "Get customer names and cities",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.459463",
+    "question": "List employee first and last names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.473163",
+    "question": "Get all order dates",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.480470",
+    "question": "Show product vendor list",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.487622",
+    "question": "Get all product codes",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.503139",
+    "question": "List all countries from offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.514199",
+    "question": "Show all order statuses",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.522201",
+    "question": "Get all payment amounts",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.530062",
+    "question": "List all job titles",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.537112",
+    "question": "Get customer phone numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.542148",
+    "question": "Show product MSRP values",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.549272",
+    "question": "List order numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.556164",
+    "question": "Get orders with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.564457",
+    "question": "Get employees with office city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.573558",
+    "question": "Get payments with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.582432",
+    "question": "Get order details with product names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.590960",
+    "question": "Get products with product line description",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.596280",
+    "question": "Get customers with sales rep names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.605226",
+    "question": "Get orders with customer city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.610551",
+    "question": "Get employees and their manager",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.619623",
+    "question": "Get orderdetails with product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.626102",
+    "question": "Get payments with customer country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.640128",
+    "question": "Count customers per country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.646511",
+    "question": "Total payments per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.653937",
+    "question": "Number of orders per status",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.660620",
+    "question": "Products per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.666647",
+    "question": "Employees per office",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.673009",
+    "question": "Total stock per product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.679474",
+    "question": "Average buy price per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.684082",
+    "question": "Orders per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.693957",
+    "question": "Max MSRP per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.700299",
+    "question": "Min buy price per vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.705175",
+    "question": "Total number of customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.713585",
+    "question": "Total number of products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.720321",
+    "question": "Total revenue from payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.725882",
+    "question": "Average product price",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.736043",
+    "question": "Max payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.742743",
+    "question": "Min payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.752373",
+    "question": "Count total orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.759870",
+    "question": "Total quantity in stock",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.769420",
+    "question": "Average MSRP",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:29:17.775331",
+    "question": "Number of employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.198730",
+    "question": "List all products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.203961",
+    "question": "Get all customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.209951",
+    "question": "Show all orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.215694",
+    "question": "List all employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.222463",
+    "question": "Get all offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.229365",
+    "question": "Show all product lines",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.236919",
+    "question": "List all payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.244727",
+    "question": "Get product names and prices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.252059",
+    "question": "Get customer names and cities",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.257079",
+    "question": "List employee first and last names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.263518",
+    "question": "Get all order dates",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.267422",
+    "question": "Show product vendor list",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.272412",
+    "question": "Get all product codes",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.277043",
+    "question": "List all countries from offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.281852",
+    "question": "Show all order statuses",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.286585",
+    "question": "Get all payment amounts",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.291069",
+    "question": "List all job titles",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.297795",
+    "question": "Get customer phone numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.305326",
+    "question": "Show product MSRP values",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.310851",
+    "question": "List order numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.315896",
+    "question": "Get orders with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.320025",
+    "question": "Get employees with office city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.324689",
+    "question": "Get payments with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.330981",
+    "question": "Get order details with product names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.335843",
+    "question": "Get products with product line description",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.339769",
+    "question": "Get customers with sales rep names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.344916",
+    "question": "Get orders with customer city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.351379",
+    "question": "Get employees and their manager",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.357207",
+    "question": "Get orderdetails with product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.364206",
+    "question": "Get payments with customer country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.368830",
+    "question": "Count customers per country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.374162",
+    "question": "Total payments per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.379880",
+    "question": "Number of orders per status",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.384770",
+    "question": "Products per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.389751",
+    "question": "Employees per office",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.395264",
+    "question": "Total stock per product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.399586",
+    "question": "Average buy price per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.404031",
+    "question": "Orders per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.408521",
+    "question": "Max MSRP per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.413835",
+    "question": "Min buy price per vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.418494",
+    "question": "Total number of customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.423085",
+    "question": "Total number of products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.427904",
+    "question": "Total revenue from payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.432974",
+    "question": "Average product price",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.437353",
+    "question": "Max payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.442753",
+    "question": "Min payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.447035",
+    "question": "Count total orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.451824",
+    "question": "Total quantity in stock",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.457642",
+    "question": "Average MSRP",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:35:56.462952",
+    "question": "Number of employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:36:52.834997",
+    "question": "Count customers per country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.120192",
+    "question": "List all products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.120192",
+    "question": "Get all customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.131520",
+    "question": "Show all orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.135952",
+    "question": "List all employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.140690",
+    "question": "Get all offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.140690",
+    "question": "Show all product lines",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.148480",
+    "question": "List all payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.151011",
+    "question": "Get product names and prices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.160178",
+    "question": "Get customer names and cities",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.164150",
+    "question": "List employee first and last names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.168041",
+    "question": "Get all order dates",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.173061",
+    "question": "Show product vendor list",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.179383",
+    "question": "Get all product codes",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.184352",
+    "question": "List all countries from offices",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.186765",
+    "question": "Show all order statuses",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.197425",
+    "question": "Get all payment amounts",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.202414",
+    "question": "List all job titles",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.207536",
+    "question": "Get customer phone numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.210706",
+    "question": "Show product MSRP values",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.216598",
+    "question": "List order numbers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.218577",
+    "question": "Get orders with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.229893",
+    "question": "Get employees with office city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.229893",
+    "question": "Get payments with customer names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.239770",
+    "question": "Get order details with product names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.243305",
+    "question": "Get products with product line description",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.250649",
+    "question": "Get customers with sales rep names",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.250649",
+    "question": "Get orders with customer city",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.260891",
+    "question": "Get employees and their manager",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.265063",
+    "question": "Get orderdetails with product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.271736",
+    "question": "Get payments with customer country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.276774",
+    "question": "Count customers per country",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.282961",
+    "question": "Total payments per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.289878",
+    "question": "Number of orders per status",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.292962",
+    "question": "Products per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.292962",
+    "question": "Employees per office",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.306165",
+    "question": "Total stock per product vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.309786",
+    "question": "Average buy price per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.314133",
+    "question": "Orders per customer",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.324680",
+    "question": "Max MSRP per product line",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.329183",
+    "question": "Min buy price per vendor",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.335301",
+    "question": "Total number of customers",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.346709",
+    "question": "Total number of products",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.352827",
+    "question": "Total revenue from payments",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.356343",
+    "question": "Average product price",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.364513",
+    "question": "Max payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.369095",
+    "question": "Min payment amount",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.377487",
+    "question": "Count total orders",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.382923",
+    "question": "Total quantity in stock",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.388026",
+    "question": "Average MSRP",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  },
+  {
+    "timestamp": "2026-05-20T14:41:18.388026",
+    "question": "Number of employees",
+    "sql": null,
+    "status": "failed",
+    "retry_needed": false,
+    "error": "'\"column\"'"
+  }
+]
