@@ -1,0 +1,24 @@
+employeeNumber,firstName,lastName,managerFirstName,managerLastName
+1002,Diane,Murphy,,
+1056,Mary,Patterson,Diane,Murphy
+1076,Jeff,Firrelli,Diane,Murphy
+1088,William,Patterson,Mary,Patterson
+1102,Gerard,Bondur,Mary,Patterson
+1143,Anthony,Bow,Mary,Patterson
+1165,Leslie,Jennings,Anthony,Bow
+1166,Leslie,Thompson,Anthony,Bow
+1188,Julie,Firrelli,Anthony,Bow
+1216,Steve,Patterson,Anthony,Bow
+1286,Foon Yue,Tseng,Anthony,Bow
+1323,George,Vanauf,Anthony,Bow
+1337,Loui,Bondur,Gerard,Bondur
+1370,Gerard,Hernandez,Gerard,Bondur
+1401,Pamela,Castillo,Gerard,Bondur
+1501,Larry,Bott,Gerard,Bondur
+1504,Barry,Jones,Gerard,Bondur
+1611,Andy,Fixter,William,Patterson
+1612,Peter,Marsh,William,Patterson
+1619,Tom,King,William,Patterson
+1621,Mami,Nishi,Mary,Patterson
+1625,Yoshimi,Kato,Mami,Nishi
+1702,Martin,Gerard,Gerard,Bondur

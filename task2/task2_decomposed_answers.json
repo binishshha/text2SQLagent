@@ -1,0 +1,502 @@
+[
+  {
+    "ID": 1,
+    "Question": "List all products",
+    "Intent": "SELECT",
+    "Tables": "products",
+    "Columns": "*",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"products\",\"columns\":\"*\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 2,
+    "Question": "Get all customers",
+    "Intent": "SELECT",
+    "Tables": "customers",
+    "Columns": "*",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"customers\",\"columns\":\"*\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 3,
+    "Question": "Show all orders",
+    "Intent": "SELECT",
+    "Tables": "orders",
+    "Columns": "*",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"orders\",\"columns\":\"*\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 4,
+    "Question": "List all employees",
+    "Intent": "SELECT",
+    "Tables": "employees",
+    "Columns": "*",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"employees\",\"columns\":\"*\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 5,
+    "Question": "Get all offices",
+    "Intent": "SELECT",
+    "Tables": "offices",
+    "Columns": "*",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"offices\",\"columns\":\"*\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 6,
+    "Question": "Show all product lines",
+    "Intent": "SELECT",
+    "Tables": "products",
+    "Columns": "productLine",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"products\",\"columns\":\"productLine\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 7,
+    "Question": "List all payments",
+    "Intent": "SELECT",
+    "Tables": "payments",
+    "Columns": "*",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"payments\",\"columns\":\"*\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 8,
+    "Question": "Get product names and prices",
+    "Intent": "SELECT",
+    "Tables": "products",
+    "Columns": "productName, MSRP",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"products\",\"columns\":\"productName, MSRP\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 9,
+    "Question": "Get customer names and cities",
+    "Intent": "SELECT",
+    "Tables": "customers",
+    "Columns": "customerName, city",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"customers\",\"columns\":\"customerName, city\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 10,
+    "Question": "List employee first and last names",
+    "Intent": "SELECT",
+    "Tables": "employees",
+    "Columns": "firstName, lastName",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"employees\",\"columns\":\"firstName, lastName\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 11,
+    "Question": "Get all order dates",
+    "Intent": "SELECT",
+    "Tables": "orders",
+    "Columns": "orderDate",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"orders\",\"columns\":\"orderDate\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 12,
+    "Question": "Show product vendor list",
+    "Intent": "SELECT",
+    "Tables": "products",
+    "Columns": "productVendor",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"products\",\"columns\":\"productVendor\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 13,
+    "Question": "Get all product codes",
+    "Intent": "SELECT",
+    "Tables": "products",
+    "Columns": "productCode",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"products\",\"columns\":\"productCode\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 14,
+    "Question": "List all countries from offices",
+    "Intent": "SELECT",
+    "Tables": "offices",
+    "Columns": "country",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"offices\",\"columns\":\"country\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 15,
+    "Question": "Show all order statuses",
+    "Intent": "SELECT",
+    "Tables": "orders",
+    "Columns": "status",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"orders\",\"columns\":\"status\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 16,
+    "Question": "Get all payment amounts",
+    "Intent": "SELECT",
+    "Tables": "payments",
+    "Columns": "amount",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"payments\",\"columns\":\"amount\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 17,
+    "Question": "List all job titles",
+    "Intent": "SELECT",
+    "Tables": "employees",
+    "Columns": "jobTitle",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"employees\",\"columns\":\"jobTitle\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 18,
+    "Question": "Get customer phone numbers",
+    "Intent": "SELECT",
+    "Tables": "customers",
+    "Columns": "phone",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"customers\",\"columns\":\"phone\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 19,
+    "Question": "Show product MSRP values",
+    "Intent": "SELECT",
+    "Tables": "products",
+    "Columns": "MSRP",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"products\",\"columns\":\"MSRP\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 20,
+    "Question": "List order numbers",
+    "Intent": "SELECT",
+    "Tables": "orders",
+    "Columns": "orderNumber",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"orders\",\"columns\":\"orderNumber\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 21,
+    "Question": "Get orders with customer names",
+    "Intent": "JOIN",
+    "Tables": "orders, customers",
+    "Columns": "orders.*, customers.customerName",
+    "Filters": "None",
+    "Joins": "orders.customerNumber = customers.customerNumber",
+    "Raw_JSON": "{\"intent\":\"JOIN\",\"tables\":\"orders, customers\",\"columns\":\"orders.*, customers.customerName\",\"filters\":\"None\",\"joins\":\"orders.customerNumber = customers.customerNumber\"}"
+  },
+  {
+    "ID": 22,
+    "Question": "Get employees with office city",
+    "Intent": "JOIN",
+    "Tables": "employees, offices",
+    "Columns": "employees.*, offices.city",
+    "Filters": "None",
+    "Joins": "employees.officeCode = offices.officeCode",
+    "Raw_JSON": "{\"intent\":\"JOIN\",\"tables\":\"employees, offices\",\"columns\":\"employees.*, offices.city\",\"filters\":\"None\",\"joins\":\"employees.officeCode = offices.officeCode\"}"
+  },
+  {
+    "ID": 23,
+    "Question": "Get payments with customer names",
+    "Intent": "JOIN",
+    "Tables": "payments, customers",
+    "Columns": "payments.*, customers.customerName",
+    "Filters": "None",
+    "Joins": "payments.customerNumber = customers.customerNumber",
+    "Raw_JSON": "{\"intent\":\"JOIN\",\"tables\":\"payments, customers\",\"columns\":\"payments.*, customers.customerName\",\"filters\":\"None\",\"joins\":\"payments.customerNumber = customers.customerNumber\"}"
+  },
+  {
+    "ID": 24,
+    "Question": "Get order details with product names",
+    "Intent": "JOIN",
+    "Tables": "orderdetails, products",
+    "Columns": "orderdetails.*, products.productName",
+    "Filters": "None",
+    "Joins": "orderdetails.productCode = products.productCode",
+    "Raw_JSON": "{\"intent\":\"JOIN\",\"tables\":\"orderdetails, products\",\"columns\":\"orderdetails.*, products.productName\",\"filters\":\"None\",\"joins\":\"orderdetails.productCode = products.productCode\"}"
+  },
+  {
+    "ID": 25,
+    "Question": "Get products with product line description",
+    "Intent": "SELECT",
+    "Tables": "products",
+    "Columns": "products.*, products.productLine",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"SELECT\",\"tables\":\"products\",\"columns\":\"products.*, products.productLine\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 26,
+    "Question": "Get customers with sales rep names",
+    "Intent": "JOIN",
+    "Tables": "customers, employees",
+    "Columns": "customers.*, employees.firstName, employees.lastName",
+    "Filters": "None",
+    "Joins": "customers.salesRepEmployeeNumber = employees.employeeNumber",
+    "Raw_JSON": "{\"intent\":\"JOIN\",\"tables\":\"customers, employees\",\"columns\":\"customers.*, employees.firstName, employees.lastName\",\"filters\":\"None\",\"joins\":\"customers.salesRepEmployeeNumber = employees.employeeNumber\"}"
+  },
+  {
+    "ID": 27,
+    "Question": "Get orders with customer city",
+    "Intent": "JOIN",
+    "Tables": "orders, customers",
+    "Columns": "orders.*, customers.city",
+    "Filters": "None",
+    "Joins": "orders.customerNumber = customers.customerNumber",
+    "Raw_JSON": "{\"intent\":\"JOIN\",\"tables\":\"orders, customers\",\"columns\":\"orders.*, customers.city\",\"filters\":\"None\",\"joins\":\"orders.customerNumber = customers.customerNumber\"}"
+  },
+  {
+    "ID": 28,
+    "Question": "Get employees and their manager",
+    "Intent": "JOIN",
+    "Tables": "employees AS E, employees AS M",
+    "Columns": "E.firstName AS EmployeeFirstName, E.lastName AS EmployeeLastName, M.firstName AS ManagerFirstName, M.lastName AS ManagerLastName",
+    "Filters": "None",
+    "Joins": "E.reportsTo = M.employeeNumber",
+    "Raw_JSON": "{\"intent\":\"JOIN\",\"tables\":\"employees AS E, employees AS M\",\"columns\":\"E.firstName AS EmployeeFirstName, E.lastName AS EmployeeLastName, M.firstName AS ManagerFirstName, M.lastName AS ManagerLastName\",\"filters\":\"None\",\"joins\":\"E.reportsTo = M.employeeNumber\"}"
+  },
+  {
+    "ID": 29,
+    "Question": "Get orderdetails with product vendor",
+    "Intent": "JOIN",
+    "Tables": "orderdetails, products",
+    "Columns": "orderdetails.*, products.productVendor",
+    "Filters": "None",
+    "Joins": "orderdetails.productCode = products.productCode",
+    "Raw_JSON": "{\"intent\":\"JOIN\",\"tables\":\"orderdetails, products\",\"columns\":\"orderdetails.*, products.productVendor\",\"filters\":\"None\",\"joins\":\"orderdetails.productCode = products.productCode\"}"
+  },
+  {
+    "ID": 30,
+    "Question": "Get payments with customer country",
+    "Intent": "JOIN",
+    "Tables": "payments, customers",
+    "Columns": "payments.*, customers.country",
+    "Filters": "None",
+    "Joins": "payments.customerNumber = customers.customerNumber",
+    "Raw_JSON": "{\"intent\":\"JOIN\",\"tables\":\"payments, customers\",\"columns\":\"payments.*, customers.country\",\"filters\":\"None\",\"joins\":\"payments.customerNumber = customers.customerNumber\"}"
+  },
+  {
+    "ID": 31,
+    "Question": "Count customers per country",
+    "Intent": "AGGREGATION",
+    "Tables": "customers",
+    "Columns": "country, COUNT(customerNumber)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"customers\",\"columns\":\"country, COUNT(customerNumber)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 32,
+    "Question": "Total payments per customer",
+    "Intent": "AGGREGATION",
+    "Tables": "payments",
+    "Columns": "customerNumber, SUM(amount)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"payments\",\"columns\":\"customerNumber, SUM(amount)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 33,
+    "Question": "Number of orders per status",
+    "Intent": "AGGREGATION",
+    "Tables": "orders",
+    "Columns": "status, COUNT(orderNumber)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"orders\",\"columns\":\"status, COUNT(orderNumber)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 34,
+    "Question": "Products per product line",
+    "Intent": "AGGREGATION",
+    "Tables": "products",
+    "Columns": "productLine, COUNT(productCode)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"products\",\"columns\":\"productLine, COUNT(productCode)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 35,
+    "Question": "Employees per office",
+    "Intent": "AGGREGATION",
+    "Tables": "employees",
+    "Columns": "officeCode, COUNT(employeeNumber)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"employees\",\"columns\":\"officeCode, COUNT(employeeNumber)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 36,
+    "Question": "Total stock per product vendor",
+    "Intent": "AGGREGATION",
+    "Tables": "products",
+    "Columns": "productVendor, SUM(quantityInStock)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"products\",\"columns\":\"productVendor, SUM(quantityInStock)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 37,
+    "Question": "Average buy price per product line",
+    "Intent": "AGGREGATION",
+    "Tables": "products",
+    "Columns": "productLine, AVG(buyPrice)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"products\",\"columns\":\"productLine, AVG(buyPrice)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 38,
+    "Question": "Orders per customer",
+    "Intent": "AGGREGATION",
+    "Tables": "orders",
+    "Columns": "customerNumber, COUNT(orderNumber)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"orders\",\"columns\":\"customerNumber, COUNT(orderNumber)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 39,
+    "Question": "Max MSRP per product line",
+    "Intent": "AGGREGATION",
+    "Tables": "products",
+    "Columns": "productLine, MAX(MSRP)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"products\",\"columns\":\"productLine, MAX(MSRP)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 40,
+    "Question": "Min buy price per vendor",
+    "Intent": "AGGREGATION",
+    "Tables": "products",
+    "Columns": "productVendor, MIN(buyPrice)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"products\",\"columns\":\"productVendor, MIN(buyPrice)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 41,
+    "Question": "Total number of customers",
+    "Intent": "AGGREGATION",
+    "Tables": "customers",
+    "Columns": "COUNT(customerNumber)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"customers\",\"columns\":\"COUNT(customerNumber)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 42,
+    "Question": "Total number of products",
+    "Intent": "AGGREGATION",
+    "Tables": "products",
+    "Columns": "COUNT(productCode)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"products\",\"columns\":\"COUNT(productCode)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 43,
+    "Question": "Total revenue from payments",
+    "Intent": "AGGREGATION",
+    "Tables": "payments",
+    "Columns": "SUM(amount)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"payments\",\"columns\":\"SUM(amount)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 44,
+    "Question": "Average product price",
+    "Intent": "AGGREGATION",
+    "Tables": "products",
+    "Columns": "AVG(MSRP)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"products\",\"columns\":\"AVG(MSRP)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 45,
+    "Question": "Max payment amount",
+    "Intent": "AGGREGATION",
+    "Tables": "payments",
+    "Columns": "MAX(amount)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"payments\",\"columns\":\"MAX(amount)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 46,
+    "Question": "Min payment amount",
+    "Intent": "AGGREGATION",
+    "Tables": "payments",
+    "Columns": "MIN(amount)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"payments\",\"columns\":\"MIN(amount)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 47,
+    "Question": "Count total orders",
+    "Intent": "AGGREGATION",
+    "Tables": "orders",
+    "Columns": "COUNT(orderNumber)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"orders\",\"columns\":\"COUNT(orderNumber)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 48,
+    "Question": "Total quantity in stock",
+    "Intent": "AGGREGATION",
+    "Tables": "products",
+    "Columns": "SUM(quantityInStock)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"products\",\"columns\":\"SUM(quantityInStock)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 49,
+    "Question": "Average MSRP",
+    "Intent": "AGGREGATION",
+    "Tables": "products",
+    "Columns": "AVG(MSRP)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"products\",\"columns\":\"AVG(MSRP)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  },
+  {
+    "ID": 50,
+    "Question": "Number of employees",
+    "Intent": "AGGREGATION",
+    "Tables": "employees",
+    "Columns": "COUNT(employeeNumber)",
+    "Filters": "None",
+    "Joins": "None",
+    "Raw_JSON": "{\"intent\":\"AGGREGATION\",\"tables\":\"employees\",\"columns\":\"COUNT(employeeNumber)\",\"filters\":\"None\",\"joins\":\"None\"}"
+  }
+]

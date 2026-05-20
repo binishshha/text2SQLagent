@@ -1,0 +1,327 @@
+orderNumber,orderDate,status,city
+10100,2003-01-06,Shipped,Nashua
+10101,2003-01-09,Shipped,Frankfurt
+10102,2003-01-10,Shipped,NYC
+10103,2003-01-29,Shipped,Stavern
+10104,2003-01-31,Shipped,Madrid
+10105,2003-02-11,Shipped,Kobenhavn
+10106,2003-02-17,Shipped,Bergamo
+10107,2003-02-24,Shipped,NYC
+10108,2003-03-03,Shipped,Makati City
+10109,2003-03-10,Shipped,Philadelphia
+10110,2003-03-18,Shipped,Manchester
+10111,2003-03-25,Shipped,San Francisco
+10112,2003-03-24,Shipped,Luleå
+10113,2003-03-26,Shipped,San Rafael
+10114,2003-04-01,Shipped,Paris
+10115,2003-04-04,Shipped,NYC
+10116,2003-04-11,Shipped,Charleroi
+10117,2003-04-16,Shipped,Singapore
+10118,2003-04-21,Shipped,Barcelona
+10119,2003-04-28,Shipped,Salzburg
+10120,2003-04-29,Shipped,Melbourne
+10121,2003-05-07,Shipped,Reims
+10122,2003-05-08,Shipped,Marseille
+10123,2003-05-20,Shipped,Nantes
+10124,2003-05-21,Shipped,Las Vegas
+10125,2003-05-21,Shipped,Melbourne
+10126,2003-05-28,Shipped,Madrid
+10127,2003-06-03,Shipped,NYC
+10128,2003-06-06,Shipped,Madrid
+10129,2003-06-12,Shipped,London
+10130,2003-06-16,Shipped,Brickhaven
+10131,2003-06-16,Shipped,Glendale
+10132,2003-06-25,Shipped,Auckland  
+10133,2003-06-27,Shipped,Madrid
+10134,2003-07-01,Shipped,Paris
+10135,2003-07-02,Shipped,San Rafael
+10136,2003-07-04,Shipped,Toulouse
+10137,2003-07-10,Shipped,Reims
+10138,2003-07-07,Shipped,Auckland
+10139,2003-07-16,Shipped,Chatswood
+10140,2003-07-24,Shipped,Burlingame
+10141,2003-08-01,Shipped,Espoo
+10142,2003-08-08,Shipped,San Rafael
+10143,2003-08-10,Shipped,New Bedford
+10144,2003-08-13,Shipped,Charleroi
+10145,2003-08-25,Shipped,Pasadena
+10146,2003-09-03,Shipped,Glendale
+10147,2003-09-05,Shipped,Brickhaven
+10148,2003-09-11,Shipped,North Sydney
+10149,2003-09-12,Shipped,Brisbane
+10150,2003-09-19,Shipped,Singapore
+10151,2003-09-21,Shipped,Oulu
+10152,2003-09-25,Shipped,South Brisbane
+10153,2003-09-28,Shipped,Madrid
+10154,2003-10-02,Shipped,Glendale
+10155,2003-10-06,Shipped,Helsinki
+10156,2003-10-08,Shipped,Madrid
+10157,2003-10-09,Shipped,Milan
+10158,2003-10-10,Shipped,Stavern
+10159,2003-10-10,Shipped,San Francisco
+10160,2003-10-11,Shipped,Los Angeles
+10161,2003-10-17,Shipped,Århus
+10162,2003-10-18,Shipped,San Francisco
+10163,2003-10-20,Shipped,NYC
+10164,2003-10-21,Resolved,Graz
+10165,2003-10-22,Shipped,Singapore
+10166,2003-10-21,Shipped,New Bedford
+10167,2003-10-23,Cancelled,Bräcke
+10168,2003-10-28,Shipped,Burlingame
+10169,2003-11-04,Shipped,North Sydney
+10170,2003-11-04,Shipped,Graz
+10171,2003-11-05,Shipped,Montréal
+10172,2003-11-05,Shipped,Bridgewater
+10173,2003-11-05,Shipped,Bergamo
+10174,2003-11-06,Shipped,South Brisbane
+10175,2003-11-06,Shipped,London
+10176,2003-11-06,Shipped,Reggio Emilia
+10177,2003-11-07,Shipped,Madrid
+10178,2003-11-08,Shipped,Toulouse
+10179,2003-11-11,Cancelled,Auckland
+10180,2003-11-11,Shipped,Lille
+10181,2003-11-12,Shipped,Bergen
+10182,2003-11-12,Shipped,San Rafael
+10183,2003-11-13,Shipped,Philadelphia
+10184,2003-11-14,Shipped,Sevilla
+10185,2003-11-14,Shipped,New Bedford
+10186,2003-11-14,Shipped,London
+10187,2003-11-15,Shipped,Central Hong Kong
+10188,2003-11-18,Shipped,Bergen
+10189,2003-11-18,Shipped,Pasadena
+10190,2003-11-19,Shipped,Madrid
+10191,2003-11-20,Shipped,Köln
+10192,2003-11-20,Shipped,Nashua
+10193,2003-11-21,Shipped,Glen Waverly
+10194,2003-11-25,Shipped,Lyon
+10195,2003-11-25,Shipped,White Plains
+10196,2003-11-26,Shipped,New Haven
+10197,2003-11-26,Shipped,Barcelona
+10198,2003-11-27,Shipped,Makati City
+10199,2003-12-01,Shipped,Burbank
+10200,2003-12-01,Shipped,Central Hong Kong
+10201,2003-12-01,Shipped,San Francisco
+10202,2003-12-02,Shipped,Auckland
+10203,2003-12-02,Shipped,Madrid
+10204,2003-12-02,Shipped,NYC
+10205,2003-12-03,Shipped,Madrid
+10206,2003-12-05,Shipped,Vancouver
+10207,2003-12-09,Shipped,Boston
+10208,2004-01-02,Shipped,Lyon
+10209,2004-01-09,Shipped,Los Angeles
+10210,2004-01-12,Shipped,Kita-ku
+10211,2004-01-15,Shipped,Paris
+10212,2004-01-16,Shipped,Madrid
+10213,2004-01-22,Shipped,London
+10214,2004-01-26,Shipped,Madrid
+10215,2004-01-29,Shipped,Burbank
+10216,2004-02-02,Shipped,Versailles
+10217,2004-02-04,Shipped,Singapore
+10218,2004-02-09,Shipped,Milan
+10219,2004-02-10,Shipped,Brisbane
+10220,2004-02-12,Shipped,Dublin
+10221,2004-02-18,Shipped,Bruxelles
+10222,2004-02-19,Shipped,San Diego
+10223,2004-02-20,Shipped,Melbourne
+10224,2004-02-21,Shipped,Lille
+10225,2004-02-22,Shipped,Genève
+10226,2004-02-26,Shipped,San Diego
+10227,2004-03-02,Shipped,Lyon
+10228,2004-03-10,Shipped,Cambridge
+10229,2004-03-11,Shipped,San Rafael
+10230,2004-03-15,Shipped,Frankfurt
+10231,2004-03-19,Shipped,Madrid
+10232,2004-03-20,Shipped,Cowes
+10233,2004-03-29,Shipped,Newark
+10234,2004-03-30,Shipped,Wellington
+10235,2004-04-02,Shipped,Tsawassen
+10236,2004-04-03,Shipped,Philadelphia
+10237,2004-04-05,Shipped,NYC
+10238,2004-04-09,Shipped,Kobenhavn
+10239,2004-04-12,Shipped,Oulu
+10240,2004-04-13,Shipped,Kita-ku
+10241,2004-04-13,Shipped,Strasbourg
+10242,2004-04-20,Shipped,NYC
+10243,2004-04-26,Shipped,Boston
+10244,2004-04-29,Shipped,Madrid
+10245,2004-05-04,Shipped,New Haven
+10246,2004-05-05,Shipped,Madrid
+10247,2004-05-05,Shipped,Espoo
+10248,2004-05-07,Cancelled,NYC
+10249,2004-05-08,Shipped,Cambridge
+10250,2004-05-11,Shipped,San Jose
+10251,2004-05-18,Shipped,Newark
+10252,2004-05-26,Shipped,Paris
+10253,2004-06-01,Cancelled,Liverpool
+10254,2004-06-03,Shipped,Auckland  
+10255,2004-06-04,Shipped,Strasbourg
+10256,2004-06-08,Shipped,Kobenhavn
+10257,2004-06-14,Shipped,San Jose
+10258,2004-06-15,Shipped,Minato-ku
+10259,2004-06-15,Shipped,Singapore
+10260,2004-06-16,Cancelled,Auckland
+10261,2004-06-17,Shipped,Montréal
+10262,2004-06-24,Cancelled,Madrid
+10263,2004-06-28,Shipped,Bridgewater
+10264,2004-06-30,Shipped,Boston
+10265,2004-07-02,Shipped,Glen Waverly
+10266,2004-07-06,Shipped,Reggio Emilia
+10267,2004-07-07,Shipped,NYC
+10268,2004-07-12,Shipped,Wellington
+10269,2004-07-16,Shipped,Salzburg
+10270,2004-07-19,Shipped,Chatswood
+10271,2004-07-20,Shipped,San Rafael
+10272,2004-07-20,Shipped,Allentown
+10273,2004-07-21,Shipped,Bruxelles
+10274,2004-07-21,Shipped,Brickhaven
+10275,2004-07-23,Shipped,Nantes
+10276,2004-08-02,Shipped,Brickhaven
+10277,2004-08-04,Shipped,Singapore
+10278,2004-08-06,Shipped,Las Vegas
+10279,2004-08-09,Shipped,Madrid
+10280,2004-08-17,Shipped,Torino
+10281,2004-08-19,Shipped,Allentown
+10282,2004-08-20,Shipped,San Rafael
+10283,2004-08-20,Shipped,Tsawassen
+10284,2004-08-21,Shipped,Oslo
+10285,2004-08-27,Shipped,Cambridge
+10286,2004-08-28,Shipped,Paris
+10287,2004-08-30,Shipped,Genève
+10288,2004-09-01,Shipped,Singapore
+10289,2004-09-03,Shipped,Bergen
+10290,2004-09-07,Shipped,Brickhaven
+10291,2004-09-08,Shipped,Bräcke
+10292,2004-09-08,Shipped,NYC
+10293,2004-09-09,Shipped,Torino
+10294,2004-09-10,Shipped,Brickhaven
+10295,2004-09-10,Shipped,Boston
+10296,2004-09-15,Shipped,Munich
+10297,2004-09-16,Shipped,Dublin
+10298,2004-09-27,Shipped,Nantes
+10299,2004-09-30,Shipped,Helsinki
+10300,2003-10-04,Shipped,Frankfurt
+10301,2003-10-05,Shipped,Oslo
+10302,2003-10-06,Shipped,Liverpool
+10303,2004-10-06,Shipped,Sevilla
+10304,2004-10-11,Shipped,Versailles
+10305,2004-10-13,Shipped,Cambridge
+10306,2004-10-14,Shipped,Manchester
+10307,2004-10-14,Shipped,Philadelphia
+10308,2004-10-15,Shipped,White Plains
+10309,2004-10-15,Shipped,Stavern
+10310,2004-10-16,Shipped,Köln
+10311,2004-10-16,Shipped,Madrid
+10312,2004-10-21,Shipped,San Rafael
+10313,2004-10-22,Shipped,Vancouver
+10314,2004-10-22,Shipped,Århus
+10315,2004-10-29,Shipped,Nantes
+10316,2004-11-01,Shipped,Cowes
+10317,2004-11-02,Shipped,Burlingame
+10318,2004-11-02,Shipped,Allentown
+10319,2004-11-03,Shipped,NYC
+10320,2004-11-03,Shipped,Luleå
+10321,2004-11-04,Shipped,New Bedford
+10322,2004-11-04,Shipped,Nashua
+10323,2004-11-05,Shipped,Frankfurt
+10324,2004-11-05,Shipped,NYC
+10325,2004-11-05,Shipped,Stavern
+10326,2004-11-09,Shipped,Luleå
+10327,2004-11-10,Resolved,Kobenhavn
+10328,2004-11-12,Shipped,Bergamo
+10329,2004-11-15,Shipped,NYC
+10330,2004-11-16,Shipped,Makati City
+10331,2004-11-17,Shipped,Philadelphia
+10332,2004-11-17,Shipped,Manchester
+10333,2004-11-18,Shipped,San Francisco
+10334,2004-11-19,On Hold,Luleå
+10335,2004-11-19,Shipped,San Rafael
+10336,2004-11-20,Shipped,Paris
+10337,2004-11-21,Shipped,NYC
+10338,2004-11-22,Shipped,Charleroi
+10339,2004-11-23,Shipped,Minato-ku
+10340,2004-11-24,Shipped,Barcelona
+10341,2004-11-24,Shipped,Salzburg
+10342,2004-11-24,Shipped,Melbourne
+10343,2004-11-24,Shipped,Reims
+10344,2004-11-25,Shipped,Marseille
+10345,2004-11-25,Shipped,Nantes
+10346,2004-11-29,Shipped,Las Vegas
+10347,2004-11-29,Shipped,Melbourne
+10348,2004-11-01,Shipped,Madrid
+10349,2004-12-01,Shipped,NYC
+10350,2004-12-02,Shipped,Madrid
+10351,2004-12-03,Shipped,London
+10352,2004-12-03,Shipped,Brickhaven
+10353,2004-12-04,Shipped,Glendale
+10354,2004-12-04,Shipped,Auckland  
+10355,2004-12-07,Shipped,Madrid
+10356,2004-12-09,Shipped,Paris
+10357,2004-12-10,Shipped,San Rafael
+10358,2004-12-10,Shipped,Madrid
+10359,2004-12-15,Shipped,Reims
+10360,2004-12-16,Shipped,Auckland
+10361,2004-12-17,Shipped,Chatswood
+10362,2005-01-05,Shipped,Burlingame
+10363,2005-01-06,Shipped,Espoo
+10364,2005-01-06,Shipped,Marseille
+10365,2005-01-07,Shipped,New Bedford
+10366,2005-01-10,Shipped,Charleroi
+10367,2005-01-12,Resolved,Pasadena
+10368,2005-01-19,Shipped,San Rafael
+10369,2005-01-20,Shipped,Brickhaven
+10370,2005-01-20,Shipped,North Sydney
+10371,2005-01-23,Shipped,San Rafael
+10372,2005-01-26,Shipped,Minato-ku
+10373,2005-01-31,Shipped,Oulu
+10374,2005-02-02,Shipped,South Brisbane
+10375,2005-02-03,Shipped,Nantes
+10376,2005-02-08,Shipped,Glendale
+10377,2005-02-09,Shipped,Helsinki
+10378,2005-02-10,Shipped,Madrid
+10379,2005-02-10,Shipped,Madrid
+10380,2005-02-16,Shipped,Madrid
+10381,2005-02-17,Shipped,San Francisco
+10382,2005-02-17,Shipped,San Rafael
+10383,2005-02-22,Shipped,Madrid
+10384,2005-02-23,Shipped,San Francisco
+10385,2005-02-28,Shipped,San Rafael
+10386,2005-03-01,Resolved,Madrid
+10387,2005-03-02,Shipped,Singapore
+10388,2005-03-03,Shipped,New Bedford
+10389,2005-03-03,Shipped,Bräcke
+10390,2005-03-04,Shipped,San Rafael
+10391,2005-03-09,Shipped,North Sydney
+10392,2005-03-10,Shipped,Graz
+10393,2005-03-11,Shipped,Auckland  
+10394,2005-03-15,Shipped,Madrid
+10395,2005-03-17,Shipped,Paris
+10396,2005-03-23,Shipped,San Rafael
+10397,2005-03-28,Shipped,Toulouse
+10398,2005-03-30,Shipped,Reims
+10399,2005-04-01,Shipped,Auckland
+10400,2005-04-01,Shipped,San Jose
+10401,2005-04-03,On Hold,Newark
+10402,2005-04-07,Shipped,Paris
+10403,2005-04-08,Shipped,Liverpool
+10404,2005-04-08,Shipped,Auckland  
+10405,2005-04-14,Shipped,Strasbourg
+10406,2005-04-15,Disputed,Kobenhavn
+10407,2005-04-22,On Hold,San Jose
+10408,2005-04-22,Shipped,Minato-ku
+10409,2005-04-23,Shipped,Singapore
+10410,2005-04-29,Shipped,Auckland
+10411,2005-05-01,Shipped,Montréal
+10412,2005-05-03,Shipped,Madrid
+10413,2005-05-05,Shipped,Bridgewater
+10414,2005-05-06,On Hold,Boston
+10415,2005-05-09,Disputed,Glen Waverly
+10416,2005-05-10,Shipped,Reggio Emilia
+10417,2005-05-13,Disputed,Madrid
+10418,2005-05-16,Shipped,Wellington
+10419,2005-05-17,Shipped,Salzburg
+10420,2005-05-29,In Process,Chatswood
+10421,2005-05-29,In Process,San Rafael
+10422,2005-05-30,In Process,Allentown
+10423,2005-05-30,In Process,Bruxelles
+10424,2005-05-31,In Process,Madrid
+10425,2005-05-31,In Process,Nantes
